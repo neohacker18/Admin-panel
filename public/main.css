@@ -1,0 +1,51 @@
+.navbar{
+    height: 60px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 2rem;
+}
+
+.navbar__button{
+    color: black;
+}
+.navbar__button:hover{
+    color: black;
+    background-color: rgb(134, 134, 134);
+}
+
+#register__form{
+    position: absolute;
+    top: 20vh;
+    right: 40vw;
+    padding: 20px;
+    color: white;
+}
+
+#update__form{
+    position: absolute;
+    top: 16vh;
+    right: 40vw;
+    padding: 20px;
+    color: white;
+    align-items: center;
+}
+
+#delete__form{
+    position: absolute;
+    top: 40vh;
+    right: 45vw;
+    padding: 20px;
+    color: white;
+}
+
+*{
+    background-color: rgb(29, 29, 29);
+}
+
+.home__heading{
+    position: absolute;
+    top: 48vh;
+    left: 40vw;
+}
