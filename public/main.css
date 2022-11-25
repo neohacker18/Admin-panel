@@ -17,26 +17,26 @@
 
 #register__form{
     position: absolute;
-    top: 20vh;
-    right: 40vw;
-    padding: 20px;
+    top: 13vh;
+    right: 45vw;
+    padding: 10px;
     color: white;
 }
 
 #update__form{
     position: absolute;
-    top: 16vh;
-    right: 40vw;
-    padding: 20px;
+    top: 13vh;
+    right: 45vw;
+    padding: 10px;
     color: white;
     align-items: center;
 }
 
 #delete__form{
     position: absolute;
-    top: 40vh;
-    right: 45vw;
-    padding: 20px;
+    top: 38vh;
+    right: 42vw;
+    padding: 30px;
     color: white;
 }
 
@@ -48,4 +48,10 @@
     position: absolute;
     top: 48vh;
     left: 40vw;
+}
+
+select{
+    background-color: rgb(44, 44, 44);
+    border-radius: 8px;
+    text-align: center;
 }
